@@ -1,0 +1,20 @@
+{
+  "name": "x25-server",
+  "version": "1.0.0",
+  "description": "x25 server",
+  "main": "app.js",
+  "scripts": {
+    "test": "run test",
+    "start": "node start.js"
+  },
+  "author": "x25 Solution",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.16.0"
+  }
+}
